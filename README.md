@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aubreycorsetti
-- 👀 I’m interested in becoming a UI Designer
+- 👀 I’m interested in becoming a Python Developer
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: email: aubreylcorsetti@icloud.com
