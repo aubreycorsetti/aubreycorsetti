@@ -1,11 +1,22 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+ <img align="right" alt="Coding" width="400" src="add your link 
+  here">
+  
+  ![header img here](./images/header.png)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aubreycorsetti&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<p align="center">
+<!-- I have a theory that GitHub does not support the ability to open a link in a new tab. I could only find evidence that it is not possible. -->
+<a href="https://www.linkedin.com/in/aubrey-corsetti/" target="_blank" rel="noopener noreferrer"><img height="38" src="./images/linkedin.png"></a>&nbsp;&nbsp;
+<!-- <a href="https://www.facebook.com/aubreylynnecorsetti/" target="_blank" rel="noopener noreferrer"><img height="38" src="./images/facebook.png"></a>&nbsp;&nbsp; -->
+<a href="mailto:aubreylcorsetti@icloud.com" target="_blank" rel="noopener noreferrer"><img height="35" src="./images/gmail.png"></a>&nbsp;&nbsp;
+</p>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<h2 align="center">Welcome to my GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
-<!---
-aubreycorsetti/aubreycorsetti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+</p>
+
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aubreycorsetti)](https://git.io/streak-stats)
+
+
