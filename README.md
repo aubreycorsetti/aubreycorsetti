@@ -1,4 +1,6 @@
   
+<h2 align="center">Welcome to my GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
+
 ![header img here](mybanner.png)
 
 <p align="center">
@@ -8,7 +10,6 @@
 <a href="mailto:aubreylcorsetti@icloud.com" target="_blank" rel="noopener noreferrer"><img height="35" src="gmail.png"></a>&nbsp;&nbsp;
 </p>
 
-<h2 align="center">Welcome to my GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
