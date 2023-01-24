@@ -15,6 +15,6 @@
 
 
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aubreycorsetti)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aubreycorsetti)](https://git.io/streak-stats) <p align="right">Hello! My name is Aubrey Corsetti and I am a Full-Stack Software Developer who specializes in Python. I am a very fun and results driven individual who loves a great puzzle! I have two dogs named Yetti and Kalua who are my world. I am open to work and am looking for a work environment that is fun, results driven and has great communication skills. Please feel free to check out my work and connect with me via LinkedIn. </p>
 
 
